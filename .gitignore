@@ -1,0 +1,22 @@
+algoritm.ipynb
+*.png
+*env
+
+# پوشه‌ها
+__pycache__/
+node_modules/
+venv/
+env/
+
+# فایل‌های موقتی
+*.log
+*.tmp
+*.swp
+
+# فایل‌های مربوط به VSCode
+.vscode/
+
+# فایل‌های محیط مجازی پایتون
+*.pyc
+.DS_Store
+.idea/
