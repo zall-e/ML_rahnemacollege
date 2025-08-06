@@ -1,6 +1,6 @@
 # 📊 Decoding hidden patterns
 
-This project explores unsupervised clustering techniques applied to challenge dataset(challenge.txt). The analysis includes data preprocessing, dimensionality reduction, cluster evaluation, and outlier detection.
+This project explores unsupervised clustering techniques applied to [challenge dataset]([آدرس لینک](https://github.com/zall-e/ML_rahnemacollege/blob/main/challenge.txt)). The analysis includes data preprocessing, dimensionality reduction, cluster evaluation, and outlier detection.
 
 ---
 
