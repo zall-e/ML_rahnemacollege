@@ -1,6 +1,6 @@
 # 📊 Decoding hidden patterns
 
-This project explores unsupervised clustering techniques applied to a college registration dataset. The analysis includes data preprocessing, dimensionality reduction, cluster evaluation, and outlier detection.
+This project explores unsupervised clustering techniques applied to challenge dataset(challenge.txt). The analysis includes data preprocessing, dimensionality reduction, cluster evaluation, and outlier detection.
 
 ---
 
